@@ -19,7 +19,15 @@ Following are some fields of data that is used in this project
   - City
 
   ### Outliers 
- The ``Price`` column contains outliers. This was identified by creating a box plot on the numerical columns. Among the numerical columns
+ The ``Price`` column contains outliers. This was identified by creating a box plot on the numerical columns. Among the numerical columns.
+
+
+ Thanks for reading 
+ 
+
+
+
+
 
 
 
